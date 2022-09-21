@@ -4,9 +4,9 @@
 * Luis
 * Izaguirre Imaz
 * Ibarra
-* 1. Sport
-* 2. Sleep
-** Luis Izaguirre **
+1. Sport
+2. Sleep
+Luis Izaguirre **
 *Luis Izaguirre*
 (https://youtube.com "Youtube Homepage")
 
