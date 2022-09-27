@@ -39,6 +39,7 @@ int main(void)
         // Generate a lettre `A` Morse code
 
         // WRITE YOUR CODE HERE
+        
         led_value = HIGH;
         digitalWrite(LED_GREEN, led_value); //put the LED on
         _delay_ms(SHORT_DELAY); // wait 200ms
