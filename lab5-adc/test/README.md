@@ -1,4 +1,4 @@
-# Lab 5: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 5: LUIS IZAGUIRRE IMAZ
 
 ### Analog-to-Digital Conversion
 
